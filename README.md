@@ -1,1 +1,2 @@
-# RentalFlix
+# RentalFlixERD
+![ERD](RentalFlix/ERD.png)
